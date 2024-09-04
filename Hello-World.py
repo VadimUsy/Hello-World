@@ -1,2 +1,2 @@
 print ("Hello World")
-print ("My First Repo")
+print ("My First Repository")
